@@ -2,6 +2,9 @@
 This project is about the famous game Rock, Paper and Scissors which is made using Python.
 In this one is user while other is a computer who generated answer using random module.
 
+
+Copy the code and enjo playing Rock, Paper and Scissors.
+
 ##ascii characters
 rock = '''
     _______
